@@ -43,7 +43,7 @@
 
 ## Spezifikationen zur Markensoftware LMs®
 - **Aktueller Stand:** Oktober 2026
-- **PHP-Kompatibilität:** PHP 8.0 oder höher
+- **PHP-Kompatibilität:** PHP 8.0 oder höher (getestet mit PHP 8.5)
 - **Architektur:** Die Websoftware LMs® basiert auf einer datenbanklosen Flat-File-Architektur und integriert technische Funktionen zur Suchmaschinenoptimierung (SEO) sowie zur strukturierten Bereitstellung von Informationen für KI-Systeme (GEO/LLM).
 - **SEO Optimierung:** BusinessCards, Landingpages und Webseiten sind bereits SEO-voroptimiert und verfügen über integrierte Funktionen zur technischen SEO-Optimierung und Suchmaschinenoptimierung.
 - **GEO-Infrastruktur:** Integrierte Bereitstellung strukturierter Produkt- und Systeminformationen über llms.txt und ai-catalog.json/ard.json zur Unterstützung der Auffindbarkeit und Verarbeitung durch KI-Systeme und zur Verbesserung der maschinellen Auffindbarkeit.
