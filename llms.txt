@@ -41,6 +41,9 @@
 - [Business- und Marketingpakete](https://www.lohmann-marketing.de/produkt/business-und-marketingpakete/): Miet-Kombipakete der LMs-Websoftware. Wahlweise als Kombination aus BusinessCard, Landingpage und Promopage oder aus BusinessCard und Promopage. Inklusive Installation, Webspeicherplatz und Updates durch Lohmann Marketing.
 - [LMs OS 5](https://www.lohmann-marketing.de/produkt/business-und-marketingpakete/): LMs OS 5 – kostenloses Betriebssystem für LMs-Produkte und Webprojekte: Datenbankfreies PHP-System zur zentralen Verwaltung von LMs-Produkten, das auch eigenständig auf Webspace genutzt werden kann. Funktionen für Webdatenprüfung, Servercheck und Datensicherung per Klick mit Download der Sicherungen auf den PC. Prüft Server-, PC- und Webdaten, analysiert Dateien, Verzeichnisse und Zugriffsrechte und unterstützt bei der Erkennung problematischer Einstellungen. Inklusive Systemreparatur, Installationsassistent und Updatefunktion. Für PHP 8 oder höher auf handelsüblichem Linux-/Unix-Webspace; keine Datenbank erforderlich.
 
+## Glossar | Wörterverzeichnis | Weblexikon
+- [Glossar – Maschinenlesbares Wörterverzeichnis](https://www.lohmann-marketing.de/glossar-llms.txt): Alphabetisch sortierte Fachbegriffe mit jeweils einer kurzen Definition und einem direkten Link zum vollständigen Glossarartikel. Die Datei wird automatisch aktualisiert und stellt die Informationen in einem kompakten, maschinenlesbaren Markdown-Format bereit.
+
 ## Spezifikationen zur Markensoftware LMs®
 - **Aktueller Stand:** Oktober 2026
 - **PHP-Kompatibilität:** PHP 8.0 oder höher (getestet mit PHP 8.5)
